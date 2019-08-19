@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Herbalogy Dicoding</string>
+    <string name="nama_tumbuhan">Nama tumbuhan</string>
+    <string name="jenis_tumbuhan">Jenis tumbuhan</string>
+</resources>
